@@ -1,5 +1,7 @@
 # Ensae_projetMDR
-Projet de Python pour la data-science sur la volatilité des actions en bourse (projet de 2ème année ENSAE)
+## Projet de Python pour la data-science sur la volatilité des actions en bourse (projet de 2ème année ENSAE)
+
+### Introduction:
 
 Dans un paysage financier constamment en mouvement, la nécessité d'approcher, voire de prédire de manière plus ou moins précise les fluctuations des cours des actions revêt une importance cruciale. Notre projet se concentre sur une analyse approfondie de la prédiction et de la volatilité des cours des actions, en utilisant des outils tels que la moyenne mobile standard, la moyenne mobile exponentielle, et le modèle GARCH (Generalized Autoregressive Conditional Heteroskedasticity). Nous abordons ce projet avec une rigueur méthodologique afin de fournir des perspectives éclairées sur les dynamiques des marchés financiers. 
 
